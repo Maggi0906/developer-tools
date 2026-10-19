@@ -1,0 +1,36 @@
+<!Doctype html>
+<html>
+<head>
+<title> Container and Class </title>
+<style>
+.container {
+  background-color: lightblue;
+  padding: 20px;
+  margin: 10px;
+}
+.box {
+  background-color: white;
+  color: black;
+  padding: 10px;
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+<h1> Main Container </h1>
+<p> This is inside main container </p>
+
+<div class="box">
+<p> This is box 1 using class </p>
+</div>
+
+<div class="box">
+<p> This is box 2 using same class </p>
+</div>
+
+</div>
+
+</body>
+</html>
