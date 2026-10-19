@@ -1,0 +1,22 @@
+<!Doctype html>
+<html>
+<head>
+<title> CSS Colors </title>
+<style>
+body {
+  background-color: lightblue;
+}
+h1 {
+  color: red;
+}
+p {
+  color: green;
+  background-color: yellow;
+}
+</style>
+</head>
+<body>
+<h1> Exploring CSS Colors </h1>
+<p> CSS helps to style text and background </p>
+</body>
+</html>
